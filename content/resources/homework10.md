@@ -5,6 +5,7 @@ file: /courses/18-950-differential-geometry-fall-2008/1e324c0b4a1caa271cf8b407bd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Homework 10
 uid: 1e324c0b-4a1c-aa27-1cf8-b407bd0dd62f
 ---
 Homework assignment.
-

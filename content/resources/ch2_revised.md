@@ -5,6 +5,7 @@ file: /courses/18-950-differential-geometry-fall-2008/83165ef2928ca971c10136ca86
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Chapter 2: Local geometry of hypersurfaces'
 uid: 83165ef2-928c-a971-c101-36ca86bac482
 ---
 Lecture notes on local geometry of hypersurfaces.
-
