@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/18-950-differential-geometry-fall-2008/6e85fd71bd7b1a725a27fe998658a925_homework1.pdf
+file_size: 101440
 file_type: application/pdf
 learning_resource_types:
 - Assignments
