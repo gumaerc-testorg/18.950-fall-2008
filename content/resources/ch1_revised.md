@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on local and global geometry of plane curves.
-file: /courses/18-950-differential-geometry-fall-2008/f3ed7e720b456bf4defaf90a723b3edd_ch1_revised.pdf
+file: /ol-ocw-studio-app/courses/18-950-differential-geometry-fall-2008/f3ed7e720b456bf4defaf90a723b3edd_ch1_revised.pdf
 file_size: 244960
 file_type: application/pdf
 learning_resource_types:
