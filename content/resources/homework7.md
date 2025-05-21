@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/18-950-differential-geometry-fall-2008/c2eed5a70a674b3227c0020cc60ed87a_homework7.pdf
+file: /courses/18-950-differential-geometry-fall-2008/c2eed5a70a674b3227c0020cc60ed87a_homework7.pdf
 file_size: 104703
 file_type: application/pdf
 learning_resource_types:
