@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on geometry of lengths and distances.
-file: /ol-ocw-studio-app/courses/18-950-differential-geometry-fall-2008/624f231226f7c15ddce6ba6dfad2db64_ch4_revised.pdf
+file: /courses/18-950-differential-geometry-fall-2008/624f231226f7c15ddce6ba6dfad2db64_ch4_revised.pdf
 file_size: 236592
 file_type: application/pdf
 learning_resource_types:
